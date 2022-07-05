@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1656992117619" clover="3.2.0">
+  <project timestamp="1656992117619" name="All files">
+    <metrics statements="25" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="6" elements="38" coveredelements="23" complexity="0" loc="25" ncloc="25" packages="2" files="3" classes="3"/>
+    <package name="models">
+      <metrics statements="18" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="3"/>
+      <file name="agora-model.ts" path="/Users/renantavares/Projetos/pessoal/desafio_cdn/src/models/agora-model.ts">
+        <metrics statements="18" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="7" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <file name="extractor.ts" path="/Users/renantavares/Projetos/pessoal/desafio_cdn/src/utils/extractor.ts">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="splitter.ts" path="/Users/renantavares/Projetos/pessoal/desafio_cdn/src/utils/splitter.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
